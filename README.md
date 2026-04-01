@@ -76,7 +76,7 @@ CardFraudDetection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CreditFraudDtectionModel.git
+git clone https://github.com/abhi643/CreditFraudDtectionModel.git
 cd CreditFraudDtectionModel
 ```
 
